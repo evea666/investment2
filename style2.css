@@ -1,0 +1,4779 @@
+*,
+::before,
+::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: sans-serif;
+
+}
+
+.contenutotal .contenucentral3 {
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+    background-image: url(/ressources/new-york-1745089.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 1px;
+}
+
+.contenutotal .contenucentral3 .lot1 {
+    display: block;
+    width: 400px;
+    height: 450px;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: 100px;
+    margin-top: 550px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.contenutotal .contenucentral3 .lot1:hover {
+    background-color: white;
+    width: 410px;
+    height: 460px;
+}
+
+.contenutotal .contenucentral3 .lot2:hover {
+    background-color: white;
+    width: 410px;
+    height: 460px;
+}
+
+.contenutotal .contenucentral3 .lot3:hover {
+    background-color: white;
+    width: 410px;
+    height: 460px;
+}
+
+.contenutotal .contenucentral3 img {
+    width: 380px;
+    height: 250px;
+}
+
+.contenutotal .contenucentral3 .lot1 img:hover {
+    width: 390px;
+    height: 260px;
+    margin-left: 10px;
+
+}
+
+.contenutotal .contenucentral3 .lot2 img:hover {
+    width: 390px;
+    height: 260px;
+    margin-left: 10px;
+
+}
+
+.contenutotal .contenucentral3 .lot3 img:hover {
+    width: 390px;
+    height: 260px;
+    margin-left: 10px;
+
+}
+
+.contenutotal .contenucentral3 .lot1 img {
+    width: 380px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 15px;
+    transition: 0.5s;
+
+}
+
+.contenutotal .contenucentral3 .lot1 h2 {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.688);
+}
+
+.contenutotal .contenucentral3 .lot1 p {
+    text-align: center;
+    font-family: 'raleway', sans-serif;
+}
+
+.contenutotal .contenucentral3 .lot1 h2:hover {
+    text-align: center;
+    color: black;
+}
+
+.contenutotal .contenucentral3 .lot1 p:hover {
+    text-align: center;
+}
+
+.contenutotal .contenucentral3 .lot2 h2:hover {
+    text-align: center;
+    color: black;
+}
+
+.contenutotal .contenucentral3 .lot2 p:hover {
+    text-align: center;
+}
+
+.contenutotal .contenucentral3 .lot3 h2:hover {
+    text-align: center;
+    color: black;
+}
+
+.contenutotal .contenucentral3 .lot3 p:hover {
+    text-align: center;
+}
+
+.contenutotal .contenucentral3 .lot2 {
+    display: block;
+    width: 400px;
+    height: 450px;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: 520px;
+    margin-top: -450px;
+    border-radius: 10px;
+    transition: 0.5s;
+
+
+}
+
+.contenutotal .contenucentral3 .lot2 img {
+    width: 380px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 15px;
+    transition: 0.5s;
+
+}
+
+.contenutotal .contenucentral3 .lot2 h2 {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.688);
+}
+
+.contenutotal .contenucentral3 .lot2 p {
+    text-align: center;
+    font-family: 'raleway', sans-serif;
+
+}
+
+.contenutotal .contenucentral3 .lot3 {
+    display: block;
+    width: 400px;
+    height: 450px;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: 940px;
+    margin-top: -450px;
+    border-radius: 10px;
+    transition: 0.5s;
+
+
+}
+
+.contenutotal .contenucentral3 .lot3 img {
+    width: 380px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 15px;
+    transition: 0.5s;
+
+}
+
+.contenutotal .contenucentral3 .lot3 h2 {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.688);
+}
+
+.contenutotal .contenucentral3 .lot3 p {
+    text-align: center;
+    font-family: 'raleway', sans-serif;
+
+}
+
+.contenutotal .contenucentral3 h1 {
+    color: white;
+    position: absolute;
+    top: 140px;
+    left: 660px;
+    font-weight: 100;
+}
+
+.contenutotal .contenucentral4 {
+    width: 100%;
+    height: 2400px;
+    background-color: white;
+    position: relative;
+    top: 100px;
+    background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 1px;
+}
+
+.contenutotal .contenucentral4 .contenu {
+    width: 80%;
+    height: 94%;
+    background-color: rgba(0, 0, 0, 0.425);
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.contenutotal .contenucentral4 .contenu .lot img {
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+}
+
+.contenutotal .contenucentral4 .contenu h1 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: 'raleway', sans-serif;
+}
+
+.contenutotal .contenucentral4 .contenu p {
+    color: white;
+    padding: 20px;
+    font-family: 'raleway', sans-serif;
+
+
+}
+
+.contenutotal footer {
+    width: 100%;
+    background-color: #272725;
+    padding: 1px;
+    position: relative;
+}
+
+.contenutotal .contenucentral4 .contenu h2 {
+    color: white;
+    font-weight: 300;
+}
+
+.contenutotal .contenucentral4 .contenu hr {
+    color: rgba(255, 255, 255, 0.438);
+}
+
+@media (max-width:1397px) and (min-width:1382px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 640px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 70px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 490px;
+        margin-top: -450px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 910px;
+        margin-top: -450px;
+        border-radius: 10px;
+
+    }
+
+
+
+
+}
+
+@media (max-width:1381px) and (min-width:1350px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 620px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 50px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 470px;
+        margin-top: -450px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 890px;
+        margin-top: -450px;
+        border-radius: 10px;
+
+    }
+
+
+
+
+}
+
+@media (max-width:1349px) and (min-width:1300px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 590px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 30px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 450px;
+        margin-top: -450px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 870px;
+        margin-top: -450px;
+        border-radius: 10px;
+
+    }
+
+
+}
+
+@media (max-width:1299px) and (min-width:1280px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 580px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 10px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 430px;
+        margin-top: -450px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 400px;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 850px;
+        margin-top: -450px;
+        border-radius: 10px;
+
+    }
+
+
+}
+
+@media (max-width:1279px) and (min-width:1080px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 500px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 340px;
+        height: 390px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 10px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 320px;
+        height: 190px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 16px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 340px;
+        height: 390px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 370px;
+        margin-top: -390px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 320px;
+        height: 190px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 16px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 340px;
+        height: 390px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 730px;
+        margin-top: -390px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 320px;
+        height: 190px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 16px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 330px;
+        height: 200px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 330px;
+        height: 200px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 330px;
+        height: 200px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 350px;
+        height: 400px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 350px;
+        height: 400px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 350px;
+        height: 400px;
+    }
+
+}
+
+@media (max-width:1079px) and (min-width:1024px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 470px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 310px;
+        height: 360px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 10px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 290px;
+        height: 160px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 16px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 310px;
+        height: 360px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 350px;
+        margin-top: -360px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 290px;
+        height: 160px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 16px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 310px;
+        height: 360px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 700px;
+        margin-top: -360px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 290px;
+        height: 160px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 16px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 300px;
+        height: 170px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 300px;
+        height: 170px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 300px;
+        height: 170px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 320px;
+        height: 370px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 320px;
+        height: 370px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 320px;
+        height: 370px;
+    }
+}
+
+@media (max-width:843px) and (min-width:834px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 370px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 260px;
+        height: 310px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 10px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 260px;
+        height: 310px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 280px;
+        margin-top: -310px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 260px;
+        height: 310px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 550px;
+        margin-top: -310px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 250px;
+        height: 120px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 250px;
+        height: 120px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 250px;
+        height: 120px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 270px;
+        height: 320px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 270px;
+        height: 320px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 270px;
+        height: 320px;
+    }
+}
+
+@media (max-width:759px) and (min-width:744px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 340px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 230px;
+        height: 280px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 10px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 210px;
+        height: 80px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 12px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 230px;
+        height: 280px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 250px;
+        margin-top: -280px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 210px;
+        height: 80px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 12px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 230px;
+        height: 280px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 490px;
+        margin-top: -280px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 210px;
+        height: 80px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 12px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 250px;
+        height: 120px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 250px;
+        height: 120px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 250px;
+        height: 120px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 270px;
+        height: 320px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 270px;
+        height: 320px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 270px;
+        height: 320px;
+    }
+}
+
+@media (max-width:1023px) and (min-width:1020px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 45%;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 310px;
+        height: 360px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 30px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 290px;
+        height: 160px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 16px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 310px;
+        height: 360px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 350px;
+        margin-top: -360px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 290px;
+        height: 160px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 16px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 310px;
+        height: 360px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 670px;
+        margin-top: -360px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 290px;
+        height: 160px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 16px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 300px;
+        height: 170px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 300px;
+        height: 170px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 300px;
+        height: 170px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 320px;
+        height: 370px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 320px;
+        height: 370px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 320px;
+        height: 370px;
+    }
+
+}
+
+@media (max-width:1019px) and (min-width:915px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 45%;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 280px;
+        height: 330px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 30px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 260px;
+        height: 130px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 280px;
+        height: 330px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 320px;
+        margin-top: -330px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 260px;
+        height: 130px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 280px;
+        height: 330px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 610px;
+        margin-top: -330px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 260px;
+        height: 130px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 270px;
+        height: 140px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 270px;
+        height: 140px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 270px;
+        height: 140px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 290px;
+        height: 340px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 290px;
+        height: 340px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 290px;
+        height: 340px;
+    }
+}
+
+@media (max-width:914px) and (min-width:896px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 45%;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 280px;
+        height: 330px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 15px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 260px;
+        height: 130px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 280px;
+        height: 330px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 305px;
+        margin-top: -330px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 260px;
+        height: 130px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 280px;
+        height: 330px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 595px;
+        margin-top: -330px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 260px;
+        height: 130px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 270px;
+        height: 140px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 270px;
+        height: 140px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 270px;
+        height: 140px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 290px;
+        height: 340px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 290px;
+        height: 340px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 290px;
+        height: 340px;
+    }
+}
+
+@media (max-width:895px) and (min-width:883px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 45%;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 280px;
+        height: 330px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 15px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 260px;
+        height: 130px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 280px;
+        height: 330px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 305px;
+        margin-top: -330px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 260px;
+        height: 130px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 280px;
+        height: 330px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 595px;
+        margin-top: -330px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 260px;
+        height: 130px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 270px;
+        height: 140px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 270px;
+        height: 140px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 270px;
+        height: 140px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 290px;
+        height: 340px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 290px;
+        height: 340px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 290px;
+        height: 340px;
+    }
+}
+
+@media (max-width:882px) and (min-width:854px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 45%;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 25px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 295px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 565px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+}
+
+@media (max-width:853px) and (min-width:844px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 45%;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 25px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 295px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 565px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 18px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+}
+
+
+
+@media (max-width:833px) and (min-width:812px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 370px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 15px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 275px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 535px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+}
+
+@media (max-width:811px) and (min-width:810px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 370px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 15px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 275px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 535px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+}
+
+@media (max-width:809px) and (min-width:800px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 360px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 15px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 275px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 250px;
+        height: 300px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 535px;
+        margin-top: -300px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 230px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 240px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 260px;
+        height: 310px;
+    }
+}
+
+@media (max-width:799px) and (min-width:760px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 330px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 45px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 275px;
+        margin-top: -270px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 505px;
+        margin-top: -270px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+}
+
+
+
+
+@media (max-width:743px) and (min-width:736px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 320px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 30px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 260px;
+        margin-top: -270px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 490px;
+        margin-top: -270px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 13px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+}
+
+@media (max-width:735px) and (min-width:667px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 295px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 190px;
+        height: 240px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 40px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 170px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 190px;
+        height: 240px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 240px;
+        margin-top: -240px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 170px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 190px;
+        height: 240px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 440px;
+        margin-top: -240px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 170px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 180px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 180px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 180px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 200px;
+        height: 250px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 200px;
+        height: 250px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 200px;
+        height: 250px;
+    }
+}
+
+@media (max-width:650px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 285px;
+        font-weight: 100;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 190px;
+        height: 240px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 30px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 170px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 190px;
+        height: 240px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 230px;
+        margin-top: -240px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 170px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 190px;
+        height: 240px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 430px;
+        margin-top: -240px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 170px;
+        height: 70px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 180px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 180px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 180px;
+        height: 80px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 200px;
+        height: 250px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 200px;
+        height: 250px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 200px;
+        height: 250px;
+    }
+}
+
+@media (max-width:649px) and (min-width:430px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 165px;
+        font-weight: 100;
+    }
+    .contenutotal .contenucentral3 {
+        width: 100%;
+        height: 1150px;
+        background-color: black;
+        background-image: url(/ressources/new-york-1745089.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 100px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 100px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 100px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+    .contenutotal .contenucentral4 {
+        width: 100%;
+        height: 2200px;
+        background-color: white;
+        position: relative;
+        top: 100px;
+        background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu {
+        width: 80%;
+        height: 88%;
+        background-color: rgba(0, 0, 0, 0.425);
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu .lot img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h1 {
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu p {
+        color: white;
+        padding: 10px;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    
+    }
+    
+    .contenutotal footer {
+        width: 100%;
+        background-color: #272725;
+        padding: 1px;
+        position: relative;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h2 {
+        color: white;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu hr {
+        color: rgba(255, 255, 255, 0.438);
+    }
+    
+}
+
+@media (max-width:429px) and (min-width:428px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 165px;
+        font-weight: 100;
+    }
+    .contenutotal .contenucentral3 {
+        width: 100%;
+        height: 1150px;
+        background-color: black;
+        background-image: url(/ressources/new-york-1745089.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 100px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 100px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 100px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+    .contenutotal .contenucentral4 {
+        width: 100%;
+        height: 2200px;
+        background-color: white;
+        position: relative;
+        top: 100px;
+        background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu {
+        width: 80%;
+        height: 88%;
+        background-color: rgba(0, 0, 0, 0.425);
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu .lot img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h1 {
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu p {
+        color: white;
+        padding: 10px;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    
+    }
+    
+    .contenutotal footer {
+        width: 100%;
+        background-color: #272725;
+        padding: 1px;
+        position: relative;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h2 {
+        color: white;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu hr {
+        color: rgba(255, 255, 255, 0.438);
+    }
+}
+
+@media (max-width:427px) and (min-width:414px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 160px;
+        font-weight: 100;
+    }
+    .contenutotal .contenucentral3 {
+        width: 100%;
+        height: 1150px;
+        background-color: black;
+        background-image: url(/ressources/new-york-1745089.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 95px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 95px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 95px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+    .contenutotal .contenucentral4 {
+        width: 100%;
+        height: 2200px;
+        background-color: white;
+        position: relative;
+        top: 100px;
+        background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu {
+        width: 80%;
+        height: 88%;
+        background-color: rgba(0, 0, 0, 0.425);
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu .lot img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h1 {
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu p {
+        color: white;
+        padding: 10px;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    
+    }
+    
+    .contenutotal footer {
+        width: 100%;
+        background-color: #272725;
+        padding: 1px;
+        position: relative;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h2 {
+        color: white;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu hr {
+        color: rgba(255, 255, 255, 0.438);
+    }
+}
+
+@media (max-width:413px) and (min-width:412px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 160px;
+        font-weight: 100;
+    }
+    .contenutotal .contenucentral3 {
+        width: 100%;
+        height: 1150px;
+        background-color: black;
+        background-image: url(/ressources/new-york-1745089.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 95px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 95px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 95px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+    .contenutotal .contenucentral4 {
+        width: 100%;
+        height: 2200px;
+        background-color: white;
+        position: relative;
+        top: 100px;
+        background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu {
+        width: 80%;
+        height: 90%;
+        background-color: rgba(0, 0, 0, 0.425);
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu .lot img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h1 {
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu p {
+        color: white;
+        padding: 10px;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    
+    }
+    
+    .contenutotal footer {
+        width: 100%;
+        background-color: #272725;
+        padding: 1px;
+        position: relative;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h2 {
+        color: white;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu hr {
+        color: rgba(255, 255, 255, 0.438);
+    }
+}
+
+@media (max-width:411px) and (min-width:390px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 150px;
+        font-weight: 100;
+    }
+    .contenutotal .contenucentral3 {
+        width: 100%;
+        height: 1150px;
+        background-color: black;
+        background-image: url(/ressources/new-york-1745089.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 85px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 85px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 85px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+    .contenutotal .contenucentral4 {
+        width: 100%;
+        height: 2200px;
+        background-color: white;
+        position: relative;
+        top: 100px;
+        background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu {
+        width: 90%;
+        height: 90%;
+        background-color: rgba(0, 0, 0, 0.425);
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu .lot img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h1 {
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu p {
+        color: white;
+        padding: 10px;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    
+    }
+    
+    .contenutotal footer {
+        width: 100%;
+        background-color: #272725;
+        padding: 1px;
+        position: relative;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h2 {
+        color: white;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu hr {
+        color: rgba(255, 255, 255, 0.438);
+    }
+}
+
+@media (max-width:389px) and (min-width:384px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 150px;
+        font-weight: 100;
+    }
+    .contenutotal .contenucentral3 {
+        width: 100%;
+        height: 1150px;
+        background-color: black;
+        background-image: url(/ressources/new-york-1745089.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 80px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 80px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 80px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+    .contenutotal .contenucentral4 {
+        width: 100%;
+        height: 2200px;
+        background-color: white;
+        position: relative;
+        top: 100px;
+        background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu {
+        width: 90%;
+        height: 90%;
+        background-color: rgba(0, 0, 0, 0.425);
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu .lot img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h1 {
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu p {
+        color: white;
+        padding: 10px;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    
+    }
+    
+    .contenutotal footer {
+        width: 100%;
+        background-color: #272725;
+        padding: 1px;
+        position: relative;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h2 {
+        color: white;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu hr {
+        color: rgba(255, 255, 255, 0.438);
+    }
+}
+
+@media (max-width:383px) and (min-width:375px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 140px;
+        font-weight: 100;
+    }
+    .contenutotal .contenucentral3 {
+        width: 100%;
+        height: 1150px;
+        background-color: black;
+        background-image: url(/ressources/new-york-1745089.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 75px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 75px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 75px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+.contenutotal .contenucentral4 {
+        width: 100%;
+        height: 2200px;
+        background-color: white;
+        position: relative;
+        top: 100px;
+        background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu {
+        width: 90%;
+        height: 90%;
+        background-color: rgba(0, 0, 0, 0.425);
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu .lot img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h1 {
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu p {
+        color: white;
+        padding: 10px;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    
+    }
+    
+    .contenutotal footer {
+        width: 100%;
+        background-color: #272725;
+        padding: 1px;
+        position: relative;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h2 {
+        color: white;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu hr {
+        color: rgba(255, 255, 255, 0.438);
+    }
+}
+@media (max-width:374px) and (min-width:360px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 130px;
+        font-weight: 100;
+    }
+    .contenutotal .contenucentral3 {
+        width: 100%;
+        height: 1150px;
+        background-color: black;
+        background-image: url(/ressources/new-york-1745089.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 70px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 70px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 70px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+ .contenutotal .contenucentral4 {
+        width: 100%;
+        height: 2200px;
+        background-color: white;
+        position: relative;
+        top: 100px;
+        background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu {
+        width: 90%;
+        height: 90%;
+        background-color: rgba(0, 0, 0, 0.425);
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu .lot img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h1 {
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu p {
+        color: white;
+        padding: 10px;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    
+    }
+    
+    .contenutotal footer {
+        width: 100%;
+        background-color: #272725;
+        padding: 1px;
+        position: relative;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h2 {
+        color: white;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu hr {
+        color: rgba(255, 255, 255, 0.438);
+    }
+}
+
+@media (max-width:359px) and (min-width:320px) {
+    .contenutotal .contenucentral3 h1 {
+        color: white;
+        position: absolute;
+        top: 140px;
+        left: 115px;
+        font-weight: 100;
+    }
+    .contenutotal .contenucentral3 {
+        width: 100%;
+        height: 1150px;
+        background-color: black;
+        background-image: url(/ressources/new-york-1745089.jpg);
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 50px;
+        margin-top: 500px;
+        border-radius: 10px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot1 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 50px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot2 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 {
+        display: block;
+        width: 220px;
+        height: 270px;
+        background-color: rgba(255, 255, 255, 0.7);
+        margin-left: 50px;
+        margin-top: 50px;
+        border-radius: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img {
+        width: 200px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 h2 {
+        text-align: center;
+        color: rgba(0, 0, 0, 0.688);
+        font-size: 16px;
+    }
+
+    .contenutotal .contenucentral3 .lot3 p {
+        text-align: center;
+        font-family: 'raleway', sans-serif;
+        font-size: 11px;
+        padding: 5px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot2 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot3 img:hover {
+        width: 210px;
+        height: 110px;
+        margin-left: 10px;
+
+    }
+
+    .contenutotal .contenucentral3 .lot1:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot2:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+    .contenutotal .contenucentral3 .lot3:hover {
+        background-color: white;
+        width: 230px;
+        height: 280px;
+    }
+
+ .contenutotal .contenucentral4 {
+        width: 100%;
+        height: 2330px;
+        background-color: white;
+        position: relative;
+        top: 100px;
+        background-image: url(/ressources/eiffel-tower-3349075_1280.jpg);
+
+        background-position: center;
+        background-size: cover;
+        padding: 1px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu {
+        width: 95%;
+        height: 93%;
+        background-color: rgba(0, 0, 0, 0.425);
+        margin: 0 auto;
+        margin-top: 30px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu .lot img {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h1 {
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-family: 'raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu p {
+        color: white;
+        padding: 5px;
+        font-family: 'raleway', sans-serif;
+        font-size: 14px;
+
+    
+    }
+    
+    .contenutotal footer {
+        width: 100%;
+        background-color: #272725;
+        padding: 1px;
+        position: relative;
+    }
+    
+    .contenutotal .contenucentral4 .contenu h2 {
+        color: white;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    
+    .contenutotal .contenucentral4 .contenu hr {
+        color: rgba(255, 255, 255, 0.438);
+    }
+}
